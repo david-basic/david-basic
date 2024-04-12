@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david-basic
 - 👀 I’m interested in coding, playing games, tech stuff in general
-- 🏫 I’m finished studies at Algebra University and got my baccalaureate in Software Engineering
+- 🏫 I finished studies at Algebra University and got my baccalaureate in Software Engineering
 - 🧑‍🎓 I currently work at RIS software firm where I help develop Ensolva procurement software
 - 💚 Passionate about Java ☕ and Spring Boot 🌱. Hope to be certified Java developer in the near future.
 
